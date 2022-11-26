@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Amatic+SC&family=Cinzel:wght@700&family=Great+Vibes&family=Island+Moments&family=Oswald:wght@600&family=Satisfy&family=Silkscreen&family=Uchen&display=swap');
+
+.heading{
+    font-family: 'Cinzel', serif;
+}
+.award{
+    color: rgb(235, 171, 71);
+    font-size: 50px;
+}
+
+.awardBox{
+    padding: 10px;
+    border: 2px solid rgb(235, 171, 71);
+    border-radius: 12px;
+    box-shadow: 6px 6px 6px rgb(101, 99, 99);
+    height: 10rem;
+    /* width: 20%; */
+    font-size: 20px;
+}
