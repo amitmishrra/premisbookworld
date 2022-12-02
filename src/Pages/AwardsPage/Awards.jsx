@@ -11,9 +11,20 @@ export default function Awards() {
     return (
         <>
             <div className="awardsPage pt-[100px] maxWidth mb-[20px]">
-                <div className="heading text-center text-[35px]">
-                    AWARDS & RECOGNITION
+
+            <div className="top flex flex-col justify-center items-center w-[100%] h-[200px] md:h-[300px]">
+                <div className="heading text-[19px] md:text-[40px] pt-[12px]">
+                AWARDS & RECOGNITION
                 </div>
+
+                <div className="line mt-[20px]"></div>
+
+                <div className="smallText pt-[12px] text-[20px]">
+                    ksdf skdf s dsfskfs kfsdhfsdf skdfhs
+                </div>
+            </div>
+
+
 
                 <div className="awardsContainer flex justify-center md:justify-between items-center flex-wrap mt-4">
                     {awardData.map((data) => {

@@ -1,0 +1,24 @@
+.line{
+    width: 300px;
+    height: 1px;
+    background: black;
+}
+
+.mid{
+   background-color: #c8bfb6;
+}
+.bottom{
+    margin-top: -1px;
+    background-image: linear-gradient(to bottom right, #2f2f2f , #4d4d4d ,#333333);
+    color: white;
+}
+
+/* .top{
+    border: 1px solid black;
+    border-inline: 1px solid black;
+}
+
+.topUpper{
+    border: 1px solid black;
+    padding: 10px;
+} */

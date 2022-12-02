@@ -1,6 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+@import url("https://use.typekit.net/jgf2rco.css");
 
 body {
   margin: 0;
@@ -16,16 +17,21 @@ code {
     monospace;
 }
 
-.maxWidth{
+.maxWidth {
   max-width: 1200px;
   margin: auto;
 }
 
-.heading{
-  text-decoration: underline rgb(243, 201, 86);
-  text-underline-offset: 3px;
+.heading {
+  /* text-decoration: underline rgb(243, 201, 86);
+  text-underline-offset: 3px; */
 }
 
-.shadow{
-    box-shadow: 12px 8px 12px rgb(101, 101, 101);
+.smallText {
+  font-family: kepler-std-semicondensed-dis;
+  font-style: italic;
+}
+
+.shadow {
+  box-shadow: 12px 8px 12px rgb(101, 101, 101);
 }
