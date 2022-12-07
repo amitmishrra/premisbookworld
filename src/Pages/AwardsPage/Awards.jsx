@@ -10,9 +10,9 @@ export default function Awards() {
 
     return (
         <>
-            <div className="awardsPage pt-[100px] maxWidth mb-[20px]">
+            <div className="awardsPage">
 
-            <div className="top flex flex-col justify-center items-center w-[100%] h-[200px] md:h-[300px]">
+            <div className="top flex flex-col justify-center items-center w-[100%] h-[200px] pt-8 md:h-[300px]">
                 <div className="heading text-[19px] md:text-[40px] pt-[12px]">
                 AWARDS & RECOGNITION
                 </div>
@@ -26,11 +26,11 @@ export default function Awards() {
 
 
 
-                <div className="awardsContainer flex justify-center md:justify-between items-center flex-wrap mt-4">
+                <div className="awardsContainer flex maxWidth justify-center md:justify-between items-center flex-wrap mt-4">
                     {awardData.map((data) => {
                         return (
                             <>
-                                <div className="awardBox flex justify-center items-center w-[350px] p-[10px]  mt-2 mb-4">
+                                <div className="awardBox flex justify-center items-center w-[350px] p-[10px]  mt-2 mb-4 ">
                                     <div className="img w-[25%]  flex justify-center items-center">
                                         <MDBIcon className='award' fas icon="award" />
                                     </div>

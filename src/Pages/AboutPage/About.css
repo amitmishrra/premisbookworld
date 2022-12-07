@@ -1,15 +1,22 @@
+.aboutPage{
+    background-position: bottom;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: linear-gradient(rgba(43, 42, 42, 0.612), rgba(9, 9, 9, 0.475)), url("../../../public/assets/Backgrounds/1.jpg");
+}
+
 .line{
     width: 300px;
     height: 1px;
-    background: black;
+    background: rgb(195, 195, 195);
 }
 
 .mid{
-   background-color: #c8bfb6;
+   /* background-color: #c8bfb6; */
 }
 .bottom{
     margin-top: -1px;
-    background-image: linear-gradient(to bottom right, #2f2f2f , #4d4d4d ,#333333);
+    background-image: linear-gradient(to bottom right, #24212170 , #4d4d4d88 ,#222222a7);
     color: white;
 }
 

@@ -14,11 +14,11 @@ export default function Videos() {
 
     return (
 
-        <div className="videosPage maxWidth pt-[100px]">
+        <div className="videosPage">
 
             
 
-            <div className="top flex flex-col justify-center items-center w-[100%] h-[200px] md:h-[300px]">
+            <div className="top flex flex-col justify-center items-center w-[100%] h-[200px] md:h-[300px] pt-8">
                 <div className="heading text-[19px] md:text-[40px] pt-[12px]">
                 Songs, Interviews and Releases
                 </div>
@@ -31,7 +31,7 @@ export default function Videos() {
             </div>
 
 
-            <div className="vidContainer flex justify-center md:justify-between items-center flex-wrap">
+            <div className="vidContainer maxWidth flex justify-center md:justify-between items-center flex-wrap">
                 {
                     videosData.map((data) => {
                         return (

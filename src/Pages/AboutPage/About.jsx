@@ -3,14 +3,14 @@ import "./About.css"
 export default function About() {
     return (
         <>
-            <div className="aboutPage flex flex-col md:flex-col  justify-between items-center pt-[100px] pb-8">
+            <div className="aboutPage flex flex-col md:flex-col  justify-between items-center  pb-8">
 
-                <div className="top flex flex-col justify-center items-center w-[100%] h-[200px] md:h-[300px]">
+                <div className="top flex flex-col justify-center items-center w-[100%] h-[200px] pt-8 md:h-[300px]">
                     <div className="heading text-[19px] md:text-[40px] pt-[12px]">
                         Dr. Subhash Chander Aima
                     </div>
 
-                    <div className="line mt-[20px]"></div>
+                    <div className="line mt-[10px]"></div>
 
                     <div className="smallText pt-[12px] text-[20px]">
                         Meet the man behind the works.
