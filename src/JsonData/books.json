@@ -1,0 +1,67 @@
+[
+    {
+        "bookName" : "Aalmi Meeras Gosha Prof. Gopi Chand Narang 2022",
+        "img" : "/assets/books/1.jpg"
+    },
+    {
+        "bookName" : "Aalmi Meeras Gosha  Ali Sardar Jafri 2020",
+        "img" : "/assets/books/2.jpeg"
+    },
+    {
+        "bookName" : "Aalmi Meeras  Gosha Brij Narayan Chakbast 2019",
+        "img" : "/assets/books/3.jpeg"
+    },
+    {
+        "bookName" : "Aalmi Meeras Gosha Brij Prem 2017",
+        "img" : "/assets/books/4.jpeg"
+    },
+    {
+        "bookName" : "Aalmi Meeras Gosha Deepak Budhki 2019-2020",
+        "img" : "/assets/books/5.jpeg"
+    },
+    {
+        "bookName" : "Aalmi Meeras Gosha Gulshan Khanna 2020",
+        "img" : "/assets/books/6.jpeg"
+    },
+    {
+        "bookName" : "Aalmi Meeras Gosha Hafiz Karnataki-12 2021",
+        "img" : "/assets/books/7.jpeg"
+    },
+    {
+        "bookName" : "Aalmi Meeras Gosha Hamidi Kashmiri 2019",
+        "img" : "/assets/books/8.jpeg"
+    },
+    {
+        "bookName" : "Aalmi Meeras Gosha Kashmiri Lal Zakir 2022",
+        "img" : "/assets/books/9.jpeg"
+    },
+    {
+        "bookName" : "Aalmi Meeras Gosha Kewal Dheer 2021",
+        "img" : "/assets/books/10.jpeg"
+    },
+    {
+        "bookName" : "Aalmi Meeras Gosha Krishan Chander 2018",
+        "img" : "/assets/books/11.jpeg"
+    },
+    {
+        "bookName" : "Aalmi Meeras Gosha Manto Shanas Brij Premi 2022",
+        "img" : "/assets/books/12.jpeg"
+    },
+    {
+        "bookName" : "Aalmi Meeras Gosha Mazhar Imam, Qamar Jalal Abadi & Premvar Bhartani 2020",
+        "img" : "/assets/books/13.jpeg"
+    }
+    ,
+    {
+        "bookName" : "Aalmi Meeras Gosha Motilal Saqi 2020",
+        "img" : "/assets/books/14.jpeg"
+    },
+    {
+        "bookName" : "Aalmi Meeras Gosha Nida Fasili 2019",
+        "img" : "/assets/books/15.jpeg"
+    },
+    {
+        "bookName" : "Aalmi Meeras Gosha sadat hassan Mantoo 2018",
+        "img" : "/assets/books/16.jpeg"
+    }
+]

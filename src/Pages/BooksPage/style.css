@@ -1,0 +1,12 @@
+.booksPage{
+    background-position: bottom;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: linear-gradient(rgba(43, 42, 42, 0.766), rgba(9, 9, 9, 0.848)), url("../../../public/assets/Backgrounds/4.jpg");
+}
+
+.bookBox{
+    background-color: rgba(114, 114, 114, 0.295);
+    border-radius: 10px;
+    color: white;
+}
