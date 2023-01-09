@@ -30,7 +30,7 @@ export default function Awards() {
                     {awardData.map((data) => {
                         return (
                             <>
-                                <div className="awardBox flex justify-center items-center w-[350px] p-[10px]  mt-2 mb-4 ">
+                                <div className="awardBox flex justify-center items-center w-[350px] p-[10px]  shadow-2xl mt-2 mb-4 ">
                                     <div className="img w-[25%]  flex justify-center items-center">
                                         <MDBIcon className='award' fas icon="award" />
                                     </div>
